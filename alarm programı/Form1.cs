@@ -52,15 +52,11 @@ namespace alarm_programı
                     bayrak = 1;
                 }
             }
-      
-
         }
-
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("ALARM KURULDU");
             alarmçalıştır();
-
         }
 
         private void Form1_Load(object sender, EventArgs e)
